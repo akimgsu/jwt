@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "serverless-deployment-bucket": "^1.6.0",
+    "serverless-plugin-resource-tagging": "^1.1.1",
+    "serverless-plugin-split-stacks": "^1.11.2"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}

@@ -1,0 +1,9 @@
+ lines (6 sloc)  94 Bytes
+
+node_modules/*
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+serverless.yml
